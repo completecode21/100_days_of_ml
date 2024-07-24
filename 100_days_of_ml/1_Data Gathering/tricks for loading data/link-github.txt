@@ -1,0 +1,9 @@
+https://github.com/campusx-official/100-days-of-machine-learning/blob/main/day15%20-%20working%20with%20csv%20files/working-with-csv.ipynb - for csv
+
+
+https://github.com/campusx-official/100-days-of-machine-learning/blob/main/day16%20-%20working-with-json-and-sql/day16.ipynb - for json/sql
+
+
+https://github.com/campusx-official/100-days-of-machine-learning/blob/main/day17-api-to-dataframe/day17.ipynb - for fethchiing from API
+
+https://github.com/campusx-official/100-days-of-machine-learning/blob/main/day18-pandas-dataframe-using-web-scraping/day18.ipynb - for web scraping

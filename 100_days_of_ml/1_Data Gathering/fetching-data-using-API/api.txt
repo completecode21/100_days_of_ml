@@ -1,0 +1,10 @@
+api key- 4d104d7517fcaf76754c0a19f0ce3fcb
+
+
+api read access token- eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0ZDEwNGQ3NTE3ZmNhZjc2NzU0YzBhMTlmMGNlM2ZjYiIsInN1YiI6IjY0ZGM2ZTMwZmUwNzdhMDBjNzMxM2FmOCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.azSgd-yTI7n2HaZ6pIi9lkJelKwY0_SjfKg8jixKQSA
+
+
+temp ph no - 917428730894
+
+pass - 
+id - Onestand

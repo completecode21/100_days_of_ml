@@ -1,0 +1,6 @@
+mixed data types can be of 2 types
+
+
+one feature contains mixed data types - use "df['col_name'].str.extract(('reg_exp')"
+
+one value contains mixed data types - use "pd.to_numeric" 

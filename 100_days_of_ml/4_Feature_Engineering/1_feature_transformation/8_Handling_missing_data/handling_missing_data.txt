@@ -1,0 +1,9 @@
+handling missing data
+different ways to handle the missing values
+numerical missing data
+1. Complete Case Analysis
+2. arbitrary-value-imputation
+3. mean-median-imputation
+categorical missing data 
+4. frequent-value-imputation
+5. missing-category-imputation

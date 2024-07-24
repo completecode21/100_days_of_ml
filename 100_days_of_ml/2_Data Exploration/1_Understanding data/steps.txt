@@ -1,0 +1,17 @@
+go through the below questions in this stage
+1. how big is the data
+   df.shape()
+2. how does the data look like?
+   df.sample(5)
+3. what is the data type of columns?
+   df.info()
+4. Are there any missing values?
+   df.isnull().sum()
+5. How does the data look mathematically?
+   df.describe()
+6. are there duplicate values?
+   df.duplicated().sum()
+7. how is the correlation between columns?
+   df.corr()['column_name']
+
+link - https://github.com/campusx-official/100-days-of-machine-learning/blob/main/day19-understanding-your-data-descriptive-stats/day19.ipynb

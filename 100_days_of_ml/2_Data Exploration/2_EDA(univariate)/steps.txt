@@ -1,0 +1,8 @@
+Define- Independent analysis of each column in a dataset is called a Univariate Analysis
+
+step -
+a. identifying and differentiating the dataset in Numerical and Categorical Data  
+
+b. Categoriacal Data Representation- countplot, piechart, etc.,
+
+c. Numerical Data Representation- histogram, distplot, boxplot, etc.,
